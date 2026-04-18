@@ -2,4 +2,6 @@
 
 Towards embodied computational agent architectures using agentic coding.
 
-All agentic coding conducted in CoPilot and Claude.
+All agentic coding conducted in CoPilot, Gemini, and Claude.
+
+Preprint is published on [Preprints.org](https://www.preprints.org/manuscript/202604.0704)
